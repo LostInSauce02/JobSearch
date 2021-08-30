@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1626212356 source:d:\c++\dstjob2.0\main.cpp
+	<iostream>
+	"Jobs.h"
+
+1625870144 source:d:\c++\dstjob2.0\src\record.cpp
+	"Record.h"
+
+1625870144 d:\c++\dstjob2.0\include\record.h
+	<iostream>
+	<string>
+
+1626124772 source:d:\c++\dstjob2.0\src\node.cpp
+	"Node.h"
+
+1626124762 d:\c++\dstjob2.0\include\node.h
+	"Record.h"
+
+1626640728 source:d:\c++\dstjob2.0\src\jobs.cpp
+	"Jobs.h"
+
+1626640410 d:\c++\dstjob2.0\include\jobs.h
+	"Node.h"
+	<algorithm>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<vector>
+	<ctime>
+	<exception>
+
